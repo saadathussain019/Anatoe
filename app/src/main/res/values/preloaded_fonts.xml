@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/faster_one</item>
+        <item>@font/geostar</item>
+        <item>@font/libre_caslon_display</item>
+        <item>@font/notable</item>
+    </array>
+</resources>
